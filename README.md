@@ -36,4 +36,4 @@ If you're using Pydroid 3 (Android), just paste the code and press ▶.
 - Add a GUI using `tkinter`
 
 ## 👨‍💻 Author
-Eric D. Officiel
+Nodjirambaye Penset Eric 
